@@ -1,0 +1,6 @@
+{
+  "name": "Aalayam Silks & Ethnic Wear",
+  "description": "Full-stack Flipkart-style Indian ethnic wear e-commerce store with Sarees, Chudidhars, UPI & COD payments, order tracking, and separate database dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
